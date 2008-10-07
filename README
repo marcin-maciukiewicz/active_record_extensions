@@ -1,0 +1,14 @@
+ 
+  ActiveRecord Extensions
+===========================
+
+Add useful methods to ActiveRecord objects:
+
+ * update_attribute_with_validation
+   By default Validations module disable validation on single attribute updates.
+   The method provided performs update for an attribute with validation for a whole object.
+
+
+------------------------------------------------------
+  Author: http://ciukes.com
+
